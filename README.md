@@ -1,7 +1,7 @@
 # NFT-marketplace-contract
 
 
-Pandora NFT marketplac contract used at Pandora Dapp. Details and readme are coming soon.
+Pandora NFT marketplace contract used at Pandora Dapp. Details and readme are coming soon.
 
 
 ## Contributing :raising_hand_woman:
