@@ -73,3 +73,9 @@ To run all tests:
 ```bash
 $ yarn test
 ```
+
+### Docs
+
+Detail about marketplace can be found at
+
+https://pandora-tech.gitbook.io/padora-docs/
